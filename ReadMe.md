@@ -77,7 +77,7 @@ Found it!
 
 All the squares have an odd number of factors, so they'll end up toggled on. What are all the squares from 1-100?
 
-`1, 4, 16, 25, 36, 49, 64, 81, 100`
+`1, 4, 9, 16, 25, 36, 49, 64, 81, 100`
 
 That's 10 bulbs that go on, off, (repeat 1-5 times,) and finally on again.
 The rest of the bulbs will always end up toggling off. Always an even number of factors for them.

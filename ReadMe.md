@@ -9,7 +9,7 @@ The only times bulbs will be left on are when they have an odd number of factors
 
 Only square numbers have an odd number of factors.
 
->There are 10 square numbers from 1-100, so only 10 bulbs will be on.
+**There are 10 square numbers from 1-100, so only 10 bulbs will be on.**
 
 ***
 ## Full Answer
@@ -54,7 +54,7 @@ Let's check prime numbers, even numbers, and odd numbers:
     6: (1, 2, 3, 6) – even
     8: (1, 2, 4, 8) – even
         
-        That's always even, except for 4, 16, etc...
+* That's always even, except for 4, 16, etc...
 
 
 3. Odd numbers are divisible by 1, themselves, and other odd numbers.
@@ -64,8 +64,8 @@ Let's check prime numbers, even numbers, and odd numbers:
     5: (1, 5) – even
     7: (1, 7) – even
     9: (1, 3, 9) – odd
-        
-        That's always even, except for 9, 25, etc...
+
+* That's always even, except for 9, 25, etc...
 
 So even and odd numbers always have an even number of factors, except for a few exceptions. The pattern to the exceptions? 
 
@@ -86,7 +86,7 @@ All the squares have an odd number of factors, so they'll end up toggled on. Wha
 That's 10 bulbs that go on, off, (repeat 1-5 times,) and finally on again.
 The rest of the bulbs will always end up toggling off. Always an even number of factors for them.
 
->Only 10 bulbs will be on at the end.
+**Only 10 bulbs will be on at the end**
 
 ***
 ## Further Demonstration

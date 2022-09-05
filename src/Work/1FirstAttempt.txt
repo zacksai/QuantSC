@@ -21,4 +21,4 @@ Once a number is passed, its state is set.
 4 will not be revisited after person 4 comes in, because next people will flip multiples of 5, 6, etc.
 
 So, let's determine how many odd and even factored numbers there are between 1-100:
-
+*see FactorFinder.java*

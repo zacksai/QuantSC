@@ -42,7 +42,7 @@ If the bulb number has an odd number of factors, it will end up on.
 
 When does a number have an odd number of factors?
 Let's check prime numbers, even numbers, and odd numbers:
-
+g
 1. Prime numbers are divisible by 1 and themselves. Just those two. Always even.
 
 

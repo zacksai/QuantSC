@@ -46,16 +46,11 @@ Let's check prime numbers, even numbers, and odd numbers:
 1. Prime numbers are divisible by 1 and themselves. Just those two. Always even.
 
 
-2. Even numbers are divisible by 1, themselves, and other even numbers.
-
-
-`2: (1, 2) – even`
-
-`4: (1, 2, 4) – odd`
-
-`6: (1, 2, 3, 6) – even`
-
-`8: (1, 2, 4, 8) – even`
+2. Even numbers are divisible by 1, themselves, and other even numbers. 
+   * 2: (1, 2) – even 
+   * 4: (1, 2, 4) – odd 
+   * 6: (1, 2, 3, 6) – even 
+   * 8: (1, 2, 4, 8) – even
         
 * That's always even, except for 4, 16, etc...
 
@@ -63,12 +58,12 @@ Let's check prime numbers, even numbers, and odd numbers:
 3. Odd numbers are divisible by 1, themselves, and other odd numbers.
 
 
-    3: (1, 3) – even
-    5: (1, 5) – even
-    7: (1, 7) – even
+    3: (1, 3) – even 
+    5: (1, 5) – even 
+    7: (1, 7) – even 
     9: (1, 3, 9) – odd
 
-* That's always even, except for 9, 25, etc...
+   * That's always even, except for 9, 25, etc...
 
 So even and odd numbers always have an even number of factors, except for a few exceptions. The pattern to the exceptions? 
 

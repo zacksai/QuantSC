@@ -58,9 +58,13 @@ Let's check prime numbers, even numbers, and odd numbers:
 3. Odd numbers are divisible by 1, themselves, and other odd numbers.
 
 
-    3: (1, 3) – even 
+
+    3: (1, 3) – even
+
     5: (1, 5) – even 
+
     7: (1, 7) – even 
+
     9: (1, 3, 9) – odd
 
    * That's always even, except for 9, 25, etc...

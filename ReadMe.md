@@ -49,10 +49,13 @@ Let's check prime numbers, even numbers, and odd numbers:
 2. Even numbers are divisible by 1, themselves, and other even numbers.
 
 
-    2: (1, 2) – even
-    4: (1, 2, 4) – odd
-    6: (1, 2, 3, 6) – even
-    8: (1, 2, 4, 8) – even
+`2: (1, 2) – even`
+
+`4: (1, 2, 4) – odd`
+
+`6: (1, 2, 3, 6) – even`
+
+`8: (1, 2, 4, 8) – even`
         
 * That's always even, except for 4, 16, etc...
 

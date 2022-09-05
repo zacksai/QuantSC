@@ -1,0 +1,24 @@
+Round 1 turns all the bulbs on since all are divisible by one.
+Which ones will remain on by the time bulb 100 is reached?
+
+The bulbs that will be on are those with an even number of factors less than 100.
+The bulbs that will be off are those with an odd number of factors less than 100.
+
+With even number of factors, the bulb will always end up being off.
+2 factors? On, then off. 4? On, off, on, then off. And so on.
+
+With odd number of factors, the bulb will always end up being on.
+3 factors? On, then off, then on. 5? On, off, on, off, on. And so on.
+
+For example, the factors of 2 are (1, 2). Even number of factors.
+Bulb two will be turned on by person 1, then off by person 2.
+
+Same with 3: (1, 3). It will be turned on by person 1, then off by person 3.
+
+Now 4: (1, 2, 4) has 3 factors. It will be turned on, off, and on again.
+
+Once a number is passed, its state is set.
+4 will not be revisited after person 4 comes in, because next people will flip multiples of 5, 6, etc.
+
+So, let's determine how many odd and even factored numbers there are between 1-100:
+
